@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="first_page">
+        <item>Please choose the Language</item>
+        <item>மொழியைத் தேர்வுசெய்க</item>
+        <item>कृपया भाषा चुनें</item>
+        <item>దయచేసి భాషను ఎంచుకోండి</item>
+    </string-array>
+
+</resources>

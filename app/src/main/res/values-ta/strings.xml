@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Prototype1</string>
+    <string name="hindi">हिन्दी</string>
+    <string name="hindi_phrase">हिंदी में जारी रखने के लिए क्लिक करें</string>
+    <string name="tamil_phrase">தமிழில் தொடர கிளிக் செய்க</string>
+    <string name="tamil">தமிழ்</string>
+    <string name="telugu">తెలుగు</string>
+    <string name="telugu_phrase">తెలుగులో కొనసాగడానికి క్లిక్ చేయండి</string>
+    <string name="english">ENGLISH</string>
+    <string name="english_phrase">Click to continue in English</string>
+    <string name="english_upload">பதிவேற்றம்</string>
+    <string name="english_fertilizer">உரம்</string>
+    <string name="enter_the_crop_to_be_sown">விதைக்க வேண்டிய பயிர் தேர்வு செய்யவும்</string>
+    <string name="input_the_soil_nutrient_parameter">மண் சோதனை அளவுருக்களை உள்ளிடவும்:</string>
+    <string name="enter_the_nitrogen_content">நைட்ரஜன் உள்ளடக்கத்தை உள்ளிடவும்</string>
+    <string name="enter_the_phosphate_content">பாஸ்பேட் உள்ளடக்கத்தை உள்ளிடவும்</string>
+    <string name="enter_the_potassium_content">பொட்டாசியம் உள்ளடக்கத்தை உள்ளிடவும்</string>
+    <string name="calculate">கணக்கிட</string>
+    <string name="helloworld">HelloWorld</string>
+    <string name="crop">Crop</string>
+    <string name="nitrogen_content">நைட்ரஜன் உள்ளடக்கம்</string>
+    <string name="phosphate_content">பாஸ்பேட் உள்ளடக்கம்</string>
+    <string name="potassium_content">பொட்டாசியம் உள்ளடக்கம்</string>
+    <string name="recommended_dose_kg_ha">பரிந்துரைக்கப்பட்ட அளவு(Kg/ha):</string>
+    <string name="recommended_no_of_bags_50kb_bag">பரிந்துரைக்கப்பட்ட பைகள் எண்ணிக்கை(50kg/bag):</string>
+    <string name="urea">யூரியா</string>
+    <string name="superphosphate">சூப்பர் பாஸ்பேட்</string>
+    <string name="potash">பொட்டாஷ்</string>
+    <string name="urea_value">யூரியா</string>
+    <string name="phosphatevalue">பாஸ்பேட் மதிப்பு</string>
+    <string name="potashvalue">பொட்டாஷ் மதிப்பு</string>
+    <string name="textview">TextView</string>
+    <string name="select">----தேர்ந்தெடுக்கவும்----</string>
+    <string name="amount">தொகை</string>
+</resources>

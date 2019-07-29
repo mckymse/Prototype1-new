@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Prototype1</string>
+    <string name="amount">Amount</string>
+    <string name="calculate">Calculate</string>
+    <string name="crop">Crop</string>
+    <string name="english">ENGLISH</string>
+    <string name="english_fertilizer">FERTILIZER</string>
+    <string name="english_phrase">Click to continue in English</string>
+    <string name="english_upload">Upload</string>
+    <string name="enter_the_crop_to_be_sown">Choose the crop to be sown</string>
+    <string name="enter_the_nitrogen_content">Enter the Nitrogen Content</string>
+    <string name="enter_the_phosphate_content">Enter the Phosphate Content</string>
+    <string name="enter_the_potassium_content">Enter the Potassium Content</string>
+    <string name="helloworld">HelloWorld</string>
+    <string name="hindi">हिन्दी</string>
+    <string name="hindi_phrase">हिंदी में जारी रखने के लिए क्लिक करें</string>
+    <string name="input_the_soil_nutrient_parameter">Input The soil Nutrient Parameter:</string>
+    <string name="nitrogen_content">Nitrogen Content</string>
+    <string name="phosphate_content">Phosphate Content</string>
+    <string name="phosphatevalue">PhosphateValue</string>
+    <string name="potash">Potash</string>
+    <string name="potashvalue">PotashValue</string>
+    <string name="potassium_content">PotashValue</string>
+    <string name="recommended_dose_kg_ha">Recommended Dose(Kg/ha):</string>
+    <string name="recommended_no_of_bags_50kb_bag">Recommended No.of bags(50kg/bag):</string>
+    <string name="superphosphate">Super Phosphate</string>
+    <string name="urea">Urea</string>
+    <string name="urea_value">Urea</string>
+</resources>

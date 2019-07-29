@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Fertilizer"
+    android:background="@color/lavender">
+
+    <LinearLayout
+        android:id="@+id/LinearLayout"
+        android:layout_width="410dp"
+        android:layout_height="535dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginTop="-4dp"
+        android:layout_marginBottom="40dp"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/Choose"
+            android:layout_width="300dp"
+            android:layout_height="40dp"
+            android:layout_marginStart="30dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/selection"
+            android:gravity="center"
+            android:text="@string/enter_the_crop_to_be_sown"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            tools:ignore="Suspicious0dp" />
+
+        <androidx.appcompat.widget.AppCompatSpinner
+            android:id="@+id/spinner"
+            android:layout_width="250dp"
+            android:layout_height="40dp"
+            android:layout_marginStart="30dp"
+            android:layout_marginTop="30dp"
+            android:layout_marginEnd="40dp"
+            android:layout_marginRight="40dp"
+            android:background="@drawable/selection"
+            android:gravity="center"
+            android:paddingStart="30dp"
+            android:paddingLeft="20dp"
+            android:paddingEnd="30dp"
+            android:text="@string/select"
+            android:textSize="45sp"
+            app:layout_constraintBottom_toBottomOf="@id/Choose"
+            app:layout_constraintRight_toRightOf="parent">
+
+        </androidx.appcompat.widget.AppCompatSpinner>
+
+
+        <ImageView
+            android:contentDescription="@null"
+            android:id="@+id/fert_pic"
+            android:layout_width="300dp"
+            android:layout_height="170dp"
+            android:layout_marginStart="30dp"
+            android:layout_marginTop="30dp"
+            android:background="@drawable/selection"
+            android:padding="20dp" />
+
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="293dp"
+            android:layout_height="30dp"
+            android:gravity="center"
+            android:layout_marginStart="30dp"
+            android:layout_marginTop="30dp"
+            android:background="@drawable/selection"
+            android:fontFamily="sans-serif-black"
+            android:paddingStart="10dp"
+            android:paddingEnd="10dp"
+            android:text="@string/input_the_soil_nutrient_parameter" />
+
+        <EditText
+            android:background="@drawable/selection"
+            android:id="@+id/Nitrogen_content"
+            android:layout_width="300dp"
+            android:gravity="center"
+            android:layout_height="40dp"
+            android:layout_marginStart="30dp"
+            android:layout_marginTop="30dp"
+            android:paddingStart="15dp"
+            android:paddingEnd="10dp"
+            android:fontFamily="sans-serif-light"
+            android:textStyle="bold"
+            android:autofillHints="Enter the Nitrogen Content"
+            android:ems="10"
+            android:hint="@string/enter_the_nitrogen_content"
+            android:inputType="number" />
+
+        <EditText
+            android:id="@+id/Phoshpate_content"
+            android:layout_width="300dp"
+            android:layout_height="40dp"
+            android:gravity="center"
+            android:fontFamily="sans-serif-light"
+            android:textStyle="bold"
+            android:paddingStart="15dp"
+            android:layout_marginStart="30dp"
+            android:layout_marginTop="30dp"
+            android:background="@drawable/selection"
+            android:autofillHints=""
+            android:ems="10"
+            android:hint="@string/enter_the_potassium_content"
+            android:inputType="number" />
+
+        <EditText
+            android:id="@+id/Potassium_content"
+            android:layout_width="300dp"
+            android:layout_height="40dp"
+            android:gravity="center"
+            android:background="@drawable/selection"
+            android:fontFamily="sans-serif-light"
+            android:textStyle="bold"
+            android:paddingStart="15dp"
+            android:layout_marginStart="30dp"
+            android:layout_marginTop="30dp"
+            android:ems="10"
+            android:hint="@string/enter_the_phosphate_content"
+            android:importantForAutofill="no"
+            android:inputType="number" />
+
+        <Button
+            android:id="@+id/button"
+            android:layout_width="109dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="150dp"
+            android:background="@drawable/selection"
+
+            android:layout_marginTop="30dp"
+            android:text="@string/calculate" />
+
+    </LinearLayout>
+</RelativeLayout>

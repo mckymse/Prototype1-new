@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Prototype1</string>
+    <string name="amount">మొత్తం</string>
+    <string name="calculate">లెక్కించు</string>
+    <string name="crop">పంట</string>
+    <string name="english_fertilizer">ఎరువులు</string>
+    <string name="english_upload">అప్లోడ్</string>
+    <string name="enter_the_crop_to_be_sown">నాటిన పంటను నమోదు చేయండి</string>
+    <string name="enter_the_nitrogen_content">నాటిన పంటను నమోదు చేయండి</string>
+    <string name="enter_the_phosphate_content">ఫాస్ఫేట్ కంటెంట్‌ను నమోదు చేయండి</string>
+    <string name="enter_the_potassium_content">పొటాషియం కంటెంట్‌ను నమోదు చేయండి</string>
+    <string name="input_the_soil_nutrient_parameter">మట్టిపారామీటర్ల విలువను నమోదు చేయండి</string>
+    <string name="nitrogen_content">" నత్రజని కంటెంట్"</string>
+    <string name="phosphate_content">ఫాస్ఫేట్ కంటెంట్</string>
+    <string name="potassium_content">పొటాషియం కంటెంట్</string>
+    <string name="phosphatevalue">ఫాస్ఫేట్ విలువ</string>
+    <string name="potashvalue">పొటాషియం విలువ</string>
+    <string name="recommended_dose_kg_ha">సిఫార్సు చేసిన మోతాదు(Kg/ha)</string>
+    <string name="recommended_no_of_bags_50kb_bag">సిఫార్సు చేసిన సంచుల సంఖ్య(50kg/bag)</string>
+    <string name="urea">యూరియా</string>
+    <string name="urea_value">యూరియా</string>
+    <string name="superphosphate">సూపర్ ఫాస్ఫేట్</string>
+    <string name="potash">"పోటాష్ "</string>
+</resources>
