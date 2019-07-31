@@ -85,10 +85,10 @@ public class Fertilizer_result extends AppCompatActivity {
                 pic.setImageResource(R.drawable.sunflower_2);
                 break;
             case "rice-p":
-                pic.setImageResource(R.drawable.rice);
+                pic.setImageResource(R.drawable.rice_1);
                 break;
             case "rice-k":
-                pic.setImageResource(R.drawable.rice_1);
+                pic.setImageResource(R.drawable.rice);
                 break;
 
 

@@ -27,6 +27,15 @@
     <string name="superphosphate">Super Phosphate</string>
     <string name="potash">Potash</string>
     <string name="urea_value">  Urea  </string>
+    <string name="english_community">COMMUNITY</string>
+    <string name="click">CLICK</string>
+    <string name="english_pesticide">PESTICIDE</string>
+    <string name="english_weather">WEATHER</string>
+    <string name="fert">Click to get the Fertilizer type and values</string>
+    <string name="pest">Click to get the Pesticide type and values</string>
+    <string name="weath">Click to get the Weather Report</string>
+
+    <string name="comm">Click to get into the community page</string>
     <string name="phosphatevalue">PhosphateValue</string>
     <string name="potashvalue">PotashValue</string>
     <string name="textview">TextView</string>

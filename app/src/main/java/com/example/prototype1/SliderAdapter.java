@@ -57,12 +57,11 @@ public class SliderAdapter<onCreate> extends PagerAdapter {
 
 
     public int[] slide_image = {
-            R.drawable.fertilizer, R.drawable.pesticide,R.drawable.thermometer,R.drawable.discussion,R.drawable.layout
-
+            R.drawable.fertilizer, R.drawable.pesticide,R.drawable.thermometer
     };
 
     public String[] slide_headings = {
-            "Fertilizer", "PESTICIDES","WEATHER","COMMUNITY PAGE","DASHBOARD"
+            "Fertilizer", "PESTICIDES","WEATHER"
     };
     public String[] slide_description = {
 
@@ -73,8 +72,7 @@ public class SliderAdapter<onCreate> extends PagerAdapter {
     };
 
     public int[] slide_image1 = {
-            R.drawable.fertilizer, R.drawable.pesticide,R.drawable.thermometer,R.drawable.discussion,R.drawable.layout
-
+            R.drawable.fertilizer, R.drawable.pesticide,R.drawable.thermometer
     };
 
     public String[] slide_headings1 = {
@@ -89,8 +87,7 @@ public class SliderAdapter<onCreate> extends PagerAdapter {
     };
 
     public int[] slide_image2 = {
-            R.drawable.fertilizer, R.drawable.pesticide,R.drawable.thermometer,R.drawable.discussion,R.drawable.layout
-
+            R.drawable.fertilizer, R.drawable.pesticide,R.drawable.thermometer
     };
 
     public String[] slide_headings2 = {
@@ -105,7 +102,7 @@ public class SliderAdapter<onCreate> extends PagerAdapter {
     };
 
     public int[] slide_image3 = {
-            R.drawable.fertilizer, R.drawable.pesticide,R.drawable.thermometer,R.drawable.discussion,R.drawable.layout
+            R.drawable.fertilizer, R.drawable.pesticide,R.drawable.thermometer
 
     };
 

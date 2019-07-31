@@ -113,7 +113,7 @@ public class English extends AppCompatActivity  {
 
     public void dot_indicator(int position) {
 
-        dots = new TextView[5];
+        dots = new TextView[3];
         /*nLayout.removeAllViews();*/
 
         for (int i = 0; i < dots.length; i++) {
