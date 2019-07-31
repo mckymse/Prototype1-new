@@ -15,9 +15,12 @@
     <string name="phosphatevalue">फॉस्फेट मान</string>
     <string name="potashvalue">पोटेशियम मान</string>
     <string name="urea">" यूरिया"</string>
+
     <string name="urea_value">" यूरिया"</string>
     <string name="recommended_no_of_bags_50kb_bag">बरामद बैग की संख्या(50kg/bag)</string>
     <string name="recommended_dose_kg_ha">अनुशंसित खुराक</string>
     <string name="superphosphate">सुपर फास्फेट</string>
     <string name="english_fertilizer">उर्वरक</string>
+    <string name="click">क्लिक</string>
+
 </resources>

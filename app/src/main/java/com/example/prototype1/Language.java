@@ -58,7 +58,7 @@ public class Language extends AppCompatActivity implements View.OnClickListener 
         {setLocale("ta");recreate();}
         if(view.getId()==R.id.hindi)
         {setLocale("hi");recreate();}
-        if(view.getId()==R.id.hindi)
+        if(view.getId()==R.id.telugu)
         {setLocale("te");recreate();}
         if(view.getId()==R.id.english)
         {setLocale("en");recreate();}

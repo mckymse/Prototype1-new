@@ -19,8 +19,8 @@
 
         <TextView
             android:id="@+id/Choose"
-            android:layout_width="300dp"
-            android:layout_height="40dp"
+            android:layout_width="350dp"
+            android:layout_height="45dp"
             android:layout_marginStart="30dp"
             android:layout_marginTop="20dp"
             android:background="@drawable/selection"
@@ -65,64 +65,64 @@
         <TextView
             android:id="@+id/textView2"
             android:layout_width="293dp"
-            android:layout_height="30dp"
-            android:gravity="center"
+            android:layout_height="35dp"
             android:layout_marginStart="30dp"
             android:layout_marginTop="30dp"
             android:background="@drawable/selection"
             android:fontFamily="sans-serif-black"
+            android:gravity="center"
             android:paddingStart="10dp"
             android:paddingEnd="10dp"
             android:text="@string/input_the_soil_nutrient_parameter" />
 
         <EditText
-            android:background="@drawable/selection"
             android:id="@+id/Nitrogen_content"
-            android:layout_width="300dp"
-            android:gravity="center"
+            android:layout_width="350dp"
             android:layout_height="40dp"
             android:layout_marginStart="30dp"
             android:layout_marginTop="30dp"
+            android:autofillHints="Enter the Nitrogen Content"
+            android:background="@drawable/selection"
+            android:ems="10"
+            android:fontFamily="sans-serif-light"
+            android:gravity="center"
+            android:hint="@string/enter_the_nitrogen_content"
+            android:inputType="number"
             android:paddingStart="15dp"
             android:paddingEnd="10dp"
-            android:fontFamily="sans-serif-light"
-            android:textStyle="bold"
-            android:autofillHints="Enter the Nitrogen Content"
-            android:ems="10"
-            android:hint="@string/enter_the_nitrogen_content"
-            android:inputType="number" />
+            android:textStyle="bold" />
 
         <EditText
             android:id="@+id/Phoshpate_content"
-            android:layout_width="300dp"
+            android:layout_width="350dp"
             android:layout_height="40dp"
-            android:gravity="center"
-            android:fontFamily="sans-serif-light"
-            android:textStyle="bold"
-            android:paddingStart="15dp"
             android:layout_marginStart="30dp"
             android:layout_marginTop="30dp"
-            android:background="@drawable/selection"
             android:autofillHints=""
+            android:background="@drawable/selection"
             android:ems="10"
+            android:fontFamily="sans-serif-light"
+            android:gravity="center"
             android:hint="@string/enter_the_potassium_content"
-            android:inputType="number" />
+            android:inputType="number"
+            android:paddingStart="15dp"
+            android:textStyle="bold" />
 
         <EditText
             android:id="@+id/Potassium_content"
-            android:layout_width="300dp"
+            android:layout_width="350dp"
             android:layout_height="40dp"
-            android:gravity="center"
-            android:background="@drawable/selection"
-            android:fontFamily="sans-serif-light"
-            android:textStyle="bold"
-            android:paddingStart="15dp"
             android:layout_marginStart="30dp"
             android:layout_marginTop="30dp"
+            android:background="@drawable/selection"
             android:ems="10"
+            android:fontFamily="sans-serif-light"
+            android:gravity="center"
             android:hint="@string/enter_the_phosphate_content"
             android:importantForAutofill="no"
-            android:inputType="number" />
+            android:inputType="number"
+            android:paddingStart="15dp"
+            android:textStyle="bold" />
 
         <Button
             android:id="@+id/button"
